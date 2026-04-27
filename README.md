@@ -56,20 +56,16 @@ Student → Admin → Controller → Coordinator → VC
 
 ### 🔐 Signup Page
 ![Signup](ScreenShots/SignUpPage.png)
-<img src="ScreenShots/SignUpPage.png" width="600"/>
 
 ### 🔑 Login Page
 ![Login](ScreenShots/LoginPage.png)
-<img src="ScreenShots/LoginPage.png" width="600"/>
 
 ### Application Pipeline
 ![ApplicationPipeLine](ScreenShots/ApplicationPipeline.png)
-<img src="ScreenShots/ApplicationPipeLine" width="600"/>
 
 
 ### 🎓 Student Dashboard
 ![Dashboard](ScreenShots/StudentDashboard.png)
-<img src="ScreenShots/StudentDashboard" width="600"/>
 
 ### 📝 Submit Application
 ![Submit](ScreenShots/SubmitApplication.png)
