@@ -18,6 +18,8 @@ A full-stack MERN application designed to manage student applications through a 
 
   * Pending, Approved, Rejected, Forwarded
 * 📁 Category-Based Application Management
+* ⏱ Real-time status updates
+
 
 ---
 
@@ -60,9 +62,8 @@ Student → Admin → Controller → Coordinator → VC
 ### 🔑 Login Page
 ![Login](ScreenShots/LoginPage.png)
 
-### Application Pipeline
+### 🔄 Application Pipeline
 ![ApplicationPipeLine](ScreenShots/ApplicationPipeline.png)
-
 
 ### 🎓 Student Dashboard
 ![Dashboard](ScreenShots/StudentDashboard.png)
@@ -76,16 +77,16 @@ Student → Admin → Controller → Coordinator → VC
 ### 🛠 Admin Dashboard
 ![Admin](ScreenShots/AdminDashboard.png)
 
-### Admin Application Panel
+### 📄 Admin Application Panel
 ![adminapplicationpanel](ScreenShots/AdminApplicationPanel.png)
 
 ### 🏛 VC Dashboard
 ![VC](ScreenShots/VCDashboard.png)
 
-### ACTION BUTTONS
+### ✅ ❌ ACTION BUTTONS
 ![Action Button](ScreenShots/ActionButtons.png)
 
-### COMMENT SECTION
+### 💬 COMMENT SECTION
 ![Comment](ScreenShots/Comments.png)
 
 ---
