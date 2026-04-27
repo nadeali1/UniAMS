@@ -83,7 +83,7 @@ Student → Admin → Controller → Coordinator → VC
 ![VC](ScreenShots/VCDashboard.png)
 
 ### ACTION BUTTONS
-![Action Button](Screenshots/ActionButtons.png)
+![Action Button](ScreenShots/ActionButtons.png)
 
 ### COMMENT SECTION
 ![Comment](ScreenShots/Comments.png)
